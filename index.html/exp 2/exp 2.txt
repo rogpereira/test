@@ -1,0 +1,101 @@
+
+PROGRAM 1\\\\\\\\\\\\\  file name - demo.css
+
+
+hl {text-align:center;padding:30px;font-style:italic;background-color:yellow;color:red;text-decoration:underline;border:solid}
+
+form(background-color:pink}
+ ul{background-color:red;color:pink}
+
+
+PROGRAM 2////////////  file name-  form.html
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Travellers</title>
+
+<link rel="stylesheet" type="text/css" href="demo.css">
+
+</head>
+
+<body>
+
+<h1>Travellers Form</h1>
+
+<form>
+
+Name:<input type="text" name="t1">
+
+<br><br>
+
+Date:<input type="date' name="d1">
+
+<br><br>
+
+Tel.:<input type="tel" pattern="[0-9]{2}-[0-9]{10}" name="t2">
+
+<br><br>
+
+<input type="image" src="submit.png" height="50" width="50">
+
+</form>
+
+<br>
+
+<br>
+
+<a href="detail.html">Click Here</a>
+
+</body>
+
+</html>
+
+
+PROGRAM 3\\\\\\\\\\\\\\\\\\\\ file name - detail.html
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<title>Form</title>
+
+<link rel="stylesheet" type="text/css" href="demo.css">
+
+<head>
+
+<body>
+
+<h1>Travellers Details</h1>
+
+<ul>
+
+<li>Name of the transportation-Air Asia
+
+<li>Time-09:30 am
+
+<li>Seat no.-B39
+
+<li>Destination-Delhi
+
+</ul>
+
+<br>
+
+<br>
+
+<br>
+
+<a href="form.html">Form</a>
+
+</body>
+
+</html>
