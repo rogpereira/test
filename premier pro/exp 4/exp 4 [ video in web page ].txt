@@ -1,0 +1,56 @@
+file name - video.html
+
+<!DOCTYPE html>
+
+<html>
+
+<head> <title>Using Video in web page </title>
+
+</head>
+
+<body>
+
+<video src="motiv.mp4" controls autoplay
+
+loop="-1" height=150 width=150>
+
+</video>
+
+</body>
+
+</html>
+
+
+
+
+program 2
+
+
+
+<!DOCTYPE html>
+
+<html>
+
+<head> <title>Using video in web page </title>
+
+</head>
+
+<body>
+
+<video controls autoplay loop="-1" height=100
+
+width=100>
+
+<source src="motiv.mp4" type="video/mp4">
+
+<source src="motiv.ogg" type="video/ogg">
+
+<source src="motiv.webm" type="video/webm">
+
+Your browser does not support this video
+
+</video>
+
+</body>
+
+</html>

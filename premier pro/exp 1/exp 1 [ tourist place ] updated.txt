@@ -1,0 +1,61 @@
+<html>
+
+<head>
+
+<title>Tourist place</title>
+
+<style>
+
+aside{background-color:pink;border:solid;float:right;width:50%;height:200px}
+
+section{background-color:yellow;border:solid;width:50%;height:200px}
+
+</style>
+
+</head>
+
+<body>
+
+<header style="background-color:blue;text-align:center;color:pink;border:solid">
+
+<h1>Tourist Place</h1>
+
+</header>
+
+<aside>
+
+<ul>
+
+<h3>Tourist places in Pune</h3>
+
+<li>Shanivarwada
+
+<li>Kelkar Museum
+
+<li>Sinhgad Fort
+
+</ul>
+
+</aside>
+
+<section>
+
+<ol>
+
+<h3>City</h3>
+
+<li>Pune
+
+<li>Banglore
+
+<li>Hyderabad
+
+<li>Delhi
+
+</ol>
+
+</section>
+
+</body>
+
+</html>
