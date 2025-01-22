@@ -1,3 +1,5 @@
+
+##
 <pre>PRACITAL 1 TOURIST PLACES PRACTICAL/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
   
  <html>
@@ -514,6 +516,8 @@ Step 1: Open Audacity software
 14: Go to Effect menu → select Low-Pass Filter option
 
 15: Change Frequency: 2000 and Roll-Off(dB per octave) :36dB
+
+##
 
 16: Listen the preview. You can make more changes. Click OK once you are satisfied with the change in audio.
 
